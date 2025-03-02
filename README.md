@@ -1,3 +1,7 @@
-Use mySQL for the database.
+The following dependencies have been used in the spring project:
+- Spring Web
+- Lombok
+- Spring Data JPA
+- MySQL Driver
 
-The script folder contians the scripts for creating the relevant tables
+To create tables, use the sql scripts in the scripts folder.
